@@ -1,0 +1,31 @@
+img {display:block}
+.header img {
+
+
+}
+
+.bio img {
+ margin: 0 auto;
+}
+body {
+background-image: url(meowingtons.jpg);
+margin: 0 auto;
+}
+p
+{background-color: rgba(102,102,102,0.5);
+color: white;
+max-width: 1080px;
+padding-top: 8px;
+}
+h3 {background-color: rgba(102,102,102,0.5);
+    color: white;
+    background-color: grey;
+    color: white;
+    max-width: 800px;
+
+}
+
+tr {color: white;
+background-color: grey;}
+
+h3

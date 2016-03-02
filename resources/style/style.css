@@ -1,0 +1,33 @@
+  img {display:block}
+  .header img {
+  margin: 0 auto;
+
+}
+
+ .bio img {
+   margin: 0 auto;
+ }
+body {
+  background-image: url(crowdsert.jpg);
+
+}
+  p
+  {background-color: rgba(102,102,102,0.5);
+  color: white;
+  margin: 0 auto;
+  max-width: 1080px;
+  padding-top: 8px;
+}
+  h3 {background-color: rgba(102,102,102,0.5);
+      color: white;
+      background-color: grey;
+      color: white;
+      margin: 0 auto;
+      max-width: 800px;
+
+}
+
+tr {color: white;
+  background-color: grey;}
+
+h3
