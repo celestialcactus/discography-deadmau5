@@ -27,6 +27,14 @@ body {
 
 }
 
+  ul {background-color: rgba(102,102,102,0.5);
+      color: white;
+      background-color: grey;
+      color: white;
+      margin: 0 auto;
+      max-width: 800px;
+    }
+
 tr {color: white;
   background-color: grey;}
 
